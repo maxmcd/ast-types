@@ -28,6 +28,7 @@ module.exports = function (defs) {
         builders: types.builders,
         defineMethod: types.defineMethod,
         getFieldNames: types.getFieldNames,
+        getDef: types.getDef,
         getFieldValue: types.getFieldValue,
         eachField: types.eachField,
         someField: types.someField,
